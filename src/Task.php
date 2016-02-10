@@ -33,5 +33,4 @@ class Task
         $_SESSION['list_of_tasks'] = array();
     }
 }
-
  ?>
